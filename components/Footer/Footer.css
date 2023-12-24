@@ -1,0 +1,24 @@
+.footer-container {
+    display: flex;
+    background-color: white;
+    height: 20vh;
+}
+.footer-left-panel {
+    flex: 0.15
+}
+.footer-middle-panel {
+    flex: 0.7;
+    margin-top: 20px;
+}
+.footer-right-panel {
+    flex: 0.15
+}
+ul > p {
+    font-family: Tahoma, sans-serif;
+    font-size: large;
+    color: #000034;
+    font-weight: bold;
+}
+ul > li {
+ margin-top: 10px;
+}

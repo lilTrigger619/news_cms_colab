@@ -1,0 +1,8 @@
+.NMCard {
+    box-shadow: none; /* Remove the box-shadow */
+  }
+  
+  .NMCard .card {
+    border-radius: 15px; /* Add border radius */
+  }
+  
