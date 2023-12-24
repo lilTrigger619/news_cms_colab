@@ -1,7 +1,8 @@
 .main-container {
     display: flex;
     background-color: whitesmoke;
-    height: 65vh;
+    /*height: 65vh;*/
+		margin-bottom:1rem;
 }
 .main-left-panel {
     flex: 0.15

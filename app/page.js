@@ -18,9 +18,9 @@ export default function Home() {
 	console.log({data, error, loading});
   return (
     <main className="">
-    <div className="App">
-      <News/>
-    </div>
+			<div className="App">
+				<News/>
+			</div>
     </main>
   )
 }

@@ -46,7 +46,7 @@ function TextExample() {
         </div>
         <div style={{ display: 'flex', justifyContent: 'space-between' }}>
           {weeklyPosts.map((data, index) => (
-            <div key={index} style={{ flex: '1', margin: '0 10px' }}>
+            <div key={index} style={{ flex: '1', margin: '2rem 10px' }}>
               <NMCard {...data} />
             </div>
           ))}
